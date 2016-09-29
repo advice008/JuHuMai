@@ -1,0 +1,23 @@
+@charset "UTF-8";
+html, body, div, ul, ol, li, dl, dt, dd, h1, h2, h3, h4, h5, h6, pre, form, p, blockquote, fieldset, input {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
+.topB {
+  width: 100%;
+  background: #f2f2f2;
+  border-bottom: 1px solid #e5e5e5;
+  font-family: "微软雅黑"; }
+.topB .top {
+  margin: 0 auto;
+  width: 1210px; }
+.topB .top .topul1 li {
+  background: url(img/top1.jpg);
+  height: 18px;
+  width: 12px;
+  display: block;
+  float: left;
+  margin: 6px 2px 2px; }
+
+/*# sourceMappingURL=index.css.map */
